@@ -7,14 +7,14 @@
 
 /* STYLES */
 
-/*  16px = 1rem  */
+/*  10px = 1rem  */
 html {
   font-size: 62.5%;
 }
 
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 1.6;
+  font-size: 1.6rem;
   color: #654321;
 }
 
@@ -32,8 +32,8 @@ img {
 }
 .card {
   max-width: 460px;
-  padding: 20px;
-  margin: 20px;
+  padding: 2rem;
+  margin: 2rem;
   background-color: #f5f5dc;
   display: flex;
   flex-direction: column;
