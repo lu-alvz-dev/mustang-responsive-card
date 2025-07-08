@@ -3,21 +3,35 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  list-style: none;
-  text-decoration: none;
+}
+
+/* STYLES */
+
+/*  16px = 1rem  */
+html {
+  font-size: 62.5%;
 }
 
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: #f1f1f1;
-  color: #333;
+  font-size: 1.6;
+  color: #ffffff;
 }
 
 .container {
-  max-width: 240px;
-  margin: 100px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #141414;
 }
 
 img {
   max-width: 75%;
+}
+.card {
+  max-width: 360px;
+  padding: 20px;
+  margin: 20px;
+  background-color: #1f1f1f;
 }
