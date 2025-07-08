@@ -5,7 +5,7 @@ A clean, responsive card layout showcasing a classic Ford Mustang, built with se
 ## Features
 
 - Mobile-first responsive design that adapts to different screen sizes
-- Modern CSS layout using Flexbox (or Grid) for alignment and spacing
+- Modern CSS layout using for alignment and spacing
 - Accessible and semantic HTML structure
 - Classic Mustang car theme with a stylish presentation
 
