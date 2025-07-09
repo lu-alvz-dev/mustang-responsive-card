@@ -15,7 +15,6 @@ html {
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 1.6rem;
-  /* color: #654321; */
   background-color: #ffffff;
   height: 100vh;
   display: flex;
@@ -27,8 +26,10 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  /* height: 50%; */
   background-color: #654321;
+  border-radius: 10px;
+  padding: 0.5rem 3rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 img {
@@ -36,7 +37,7 @@ img {
   border-radius: 10px 10px 0 0;
 }
 .card {
-  max-width: 460px;
+  max-width: 46rem;
   padding: 2rem;
   margin: 2rem;
   background-color: #f5f5dc;
