@@ -15,14 +15,19 @@ html {
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 1.6rem;
-  color: #654321;
+  /* color: #654321; */
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .container {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 100vh;
+  /* height: 50%; */
   background-color: #654321;
 }
 
