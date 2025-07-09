@@ -35,7 +35,7 @@ img {
   width: 100%;
 }
 .card {
-  max-width: 46rem;
+  max-width: 32rem;
   background-color: #e4e4cf;
   display: flex;
   flex-direction: column;
